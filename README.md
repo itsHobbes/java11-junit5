@@ -1,5 +1,7 @@
 # Java 11 Junit 5
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/uk.co.markg.archetypes/java11-junit5/badge.svg)](https://search.maven.org/artifact/uk.co.markg.archetypes/java11-junit5/1.0/maven-archetype)
+
 A maven archetype for generating a java project defaulting with java 11 and junit 5
 
 ## Usage
