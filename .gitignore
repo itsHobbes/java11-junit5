@@ -207,3 +207,6 @@ buildNumber.properties
 .history
 
 # End of https://www.gitignore.io/api/java,maven,eclipse,intellij+all,visualstudiocode
+
+
+settings.xml
